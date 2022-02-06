@@ -28,3 +28,4 @@ C:\Users\User\Source\Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\Xam
 C:\Users\User\Source\Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\Aplus.dll
 C:\Users\User\Source\Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\ref\Aplus.dll
 C:\Users\User\Source\Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\Aplus.pdb
+C:\Users\User\Source\Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\RegistrationPage.xaml.g.cs

@@ -693,7 +693,6 @@ C:\Users\User\Source\Repos\AplusXamarin\Aplus\Aplus.Android\obj\Debug\120\res\mi
 C:\Users\User\Source\Repos\AplusXamarin\Aplus\Aplus.Android\obj\Debug\120\res\mipmap-xxhdpi\launcher_foreground.png
 C:\Users\User\Source\Repos\AplusXamarin\Aplus\Aplus.Android\obj\Debug\120\res\mipmap-xxxhdpi\icon.png
 C:\Users\User\Source\Repos\AplusXamarin\Aplus\Aplus.Android\obj\Debug\120\res\mipmap-xxxhdpi\launcher_foreground.png
-C:\Users\User\Source\Repos\AplusXamarin\Aplus\Aplus.Android\obj\Debug\120\res\drawable\auth.png
 C:\Users\User\Source\Repos\AplusXamarin\Aplus\Aplus.Android\obj\Debug\120\res\drawable\logo.png
 C:\Users\User\Source\Repos\AplusXamarin\Aplus\Aplus.Android\obj\Debug\120\uploadflags.txt
 C:\Users\User\Source\Repos\AplusXamarin\Aplus\Aplus.Android\obj\Debug\120\resolvedassemblies.hash

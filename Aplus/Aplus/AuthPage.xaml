@@ -39,6 +39,7 @@
                 HeightRequest="35"
                 FontSize="11"
                 HorizontalOptions="Start"
+                Clicked="RegistrationBtn_Clicked"
                 Text="Зарегистрироваться" 
                 FontAttributes="Bold"/>
             <Button
@@ -51,6 +52,7 @@
                 HeightRequest="35"
                 FontSize="11"
                 HorizontalOptions="EndAndExpand"
+                Clicked="AuthBtn_Clicked"
                 Text="Войти" 
                 FontAttributes="Bold"/>
         </StackLayout>

@@ -28,4 +28,10 @@
   <ItemGroup>
     <Resource Include="Resources\logo.png" />
   </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="RegistrationPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
 </Project>

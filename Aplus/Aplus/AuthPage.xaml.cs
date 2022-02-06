@@ -13,6 +13,17 @@ namespace Aplus
         public AuthPage()
         {
             InitializeComponent();
+            NavigationPage.SetHasNavigationBar(this, false);
+        }
+
+        private async void RegistrationBtn_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new RegistrationPage());
+        }
+
+        private async void AuthBtn_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new NavigationPage(new RegistrationPage()));
         }
     }
 }
