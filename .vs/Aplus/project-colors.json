@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3f0cc022-3a0a-4c18-83a4-b35faedf5b0b": {
+      "ProjectGuid": "3f0cc022-3a0a-4c18-83a4-b35faedf5b0b",
+      "DisplayName": "Aplus",
+      "ColorIndex": 0
+    },
+    "a96d30ab-958a-4555-aa89-bce1ca809abf": {
+      "ProjectGuid": "a96d30ab-958a-4555-aa89-bce1ca809abf",
+      "DisplayName": "Aplus.Android",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
