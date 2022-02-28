@@ -44,6 +44,9 @@
             x:Name="RegBtn"
             Text="Зарегистрироваться"
             TextTransform="None" 
-            CornerRadius="0"/>
+            CornerRadius="0"
+            BorderWidth="1"
+            BorderColor="Black"
+            Clicked="RegBtn_Clicked"/>
     </StackLayout>
 </ContentPage>

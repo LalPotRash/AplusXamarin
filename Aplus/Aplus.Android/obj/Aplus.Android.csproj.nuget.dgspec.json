@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Source\\Repos\\AplusXamarin\\Aplus\\Aplus.Android\\Aplus.Android.csproj": {}
+    "D:\\VS Repos\\AplusXamarin\\Aplus\\Aplus.Android\\Aplus.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Source\\Repos\\AplusXamarin\\Aplus\\Aplus.Android\\Aplus.Android.csproj": {
+    "D:\\VS Repos\\AplusXamarin\\Aplus\\Aplus.Android\\Aplus.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\AplusXamarin\\Aplus\\Aplus.Android\\Aplus.Android.csproj",
+        "projectUniqueName": "D:\\VS Repos\\AplusXamarin\\Aplus\\Aplus.Android\\Aplus.Android.csproj",
         "projectName": "Aplus.Android",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\AplusXamarin\\Aplus\\Aplus.Android\\Aplus.Android.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\AplusXamarin\\Aplus\\Aplus.Android\\obj\\",
+        "projectPath": "D:\\VS Repos\\AplusXamarin\\Aplus\\Aplus.Android\\Aplus.Android.csproj",
+        "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
+        "outputPath": "D:\\VS Repos\\AplusXamarin\\Aplus\\Aplus.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "C:\\Users\\User\\Source\\Repos\\AplusXamarin\\Aplus\\Aplus\\Aplus.csproj": {
-                "projectPath": "C:\\Users\\User\\Source\\Repos\\AplusXamarin\\Aplus\\Aplus\\Aplus.csproj"
+              "D:\\VS Repos\\AplusXamarin\\Aplus\\Aplus\\Aplus.csproj": {
+                "projectPath": "D:\\VS Repos\\AplusXamarin\\Aplus\\Aplus\\Aplus.csproj"
               }
             }
           }
@@ -50,17 +50,17 @@
         }
       }
     },
-    "C:\\Users\\User\\Source\\Repos\\AplusXamarin\\Aplus\\Aplus\\Aplus.csproj": {
+    "D:\\VS Repos\\AplusXamarin\\Aplus\\Aplus\\Aplus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\AplusXamarin\\Aplus\\Aplus\\Aplus.csproj",
+        "projectUniqueName": "D:\\VS Repos\\AplusXamarin\\Aplus\\Aplus\\Aplus.csproj",
         "projectName": "Aplus",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\AplusXamarin\\Aplus\\Aplus\\Aplus.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\AplusXamarin\\Aplus\\Aplus\\obj\\",
+        "projectPath": "D:\\VS Repos\\AplusXamarin\\Aplus\\Aplus\\Aplus.csproj",
+        "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
+        "outputPath": "D:\\VS Repos\\AplusXamarin\\Aplus\\Aplus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -111,7 +111,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

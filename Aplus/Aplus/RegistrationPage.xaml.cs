@@ -16,5 +16,10 @@ namespace Aplus
         {
             InitializeComponent();
         }
+
+        private async void RegBtn_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new NavigationPage(new ChooseProjPage()));
+        }
     }
 }

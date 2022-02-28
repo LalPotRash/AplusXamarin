@@ -23,7 +23,7 @@ namespace Aplus
 
         private async void AuthBtn_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushModalAsync(new NavigationPage(new RegistrationPage()));
+            await Navigation.PushModalAsync(new NavigationPage(new ChooseProjPage()));
         }
     }
 }

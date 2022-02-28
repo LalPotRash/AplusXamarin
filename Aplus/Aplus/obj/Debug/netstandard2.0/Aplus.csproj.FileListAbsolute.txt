@@ -29,3 +29,20 @@ C:\Users\User\Source\Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\Apl
 C:\Users\User\Source\Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\ref\Aplus.dll
 C:\Users\User\Source\Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\Aplus.pdb
 C:\Users\User\Source\Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\RegistrationPage.xaml.g.cs
+D:\VS Repos\AplusXamarin\Aplus\Aplus\bin\Debug\netstandard2.0\Aplus.deps.json
+D:\VS Repos\AplusXamarin\Aplus\Aplus\bin\Debug\netstandard2.0\Aplus.dll
+D:\VS Repos\AplusXamarin\Aplus\Aplus\bin\Debug\netstandard2.0\ref\Aplus.dll
+D:\VS Repos\AplusXamarin\Aplus\Aplus\bin\Debug\netstandard2.0\Aplus.pdb
+D:\VS Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\Aplus.csproj.AssemblyReference.cache
+D:\VS Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\Aplus.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\VS Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\AuthPage.xaml.g.cs
+D:\VS Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\RegistrationPage.xaml.g.cs
+D:\VS Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\Aplus.AssemblyInfoInputs.cache
+D:\VS Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\Aplus.AssemblyInfo.cs
+D:\VS Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\Aplus.csproj.CoreCompileInputs.cache
+D:\VS Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\XamlC.stamp
+D:\VS Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\Aplus.dll
+D:\VS Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\ref\Aplus.dll
+D:\VS Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\Aplus.pdb
+D:\VS Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\ChooseProjPage.xaml.g.cs
