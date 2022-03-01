@@ -46,3 +46,7 @@ D:\VS Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\Aplus.dll
 D:\VS Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\ref\Aplus.dll
 D:\VS Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\Aplus.pdb
 D:\VS Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\ChooseProjPage.xaml.g.cs
+D:\VS Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\InfoProj1.xaml.g.cs
+D:\VS Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\TabsPage.xaml.g.cs
+D:\VS Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\InfoProj2.xaml.g.cs
+D:\VS Repos\AplusXamarin\Aplus\Aplus\obj\Debug\netstandard2.0\InfoProj3.xaml.g.cs

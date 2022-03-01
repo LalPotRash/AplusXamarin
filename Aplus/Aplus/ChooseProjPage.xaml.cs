@@ -17,9 +17,9 @@ namespace Aplus
             InitializeComponent();
         }
 
-        private void ItemTapped(object sender, ItemTappedEventArgs e)
+        private async void Project_Clicked(object sender, EventArgs e)
         {
-
+            await Navigation.PushAsync(new TabsPage());
         }
     }
 }

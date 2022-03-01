@@ -4,8 +4,7 @@
              x:Class="Aplus.AuthPage">
 
     <StackLayout Margin="40,20" Spacing="50">
-        <Image
-            x:Name="IconLoginImg"
+        <Image x:Name="IconLoginImg"
             Margin="0,20,0,30"
             Aspect="AspectFit"
             Scale="0.9"
@@ -13,23 +12,20 @@
         <StackLayout Spacing="0">
             <Label Text="Логин" TextColor="Black" Margin="15,0,0,0" FontSize="16"></Label>
             <Frame BorderColor="#000" CornerRadius="0" Margin="15, 0, 15, 55">
-                <Entry
-                    x:Name="LoginEntry"
+                <Entry x:Name="LoginEntry"
                     Margin="-20,-25"
                     VerticalOptions="CenterAndExpand" />
             </Frame>
             <Label Text="Пароль" TextColor="Black" Margin="15,0,0,0" FontSize="16"></Label>
             <Frame BorderColor="#000" CornerRadius="0" Margin="15, 0">
-                <Entry
-                    x:Name="PasswordEntry"
+                <Entry x:Name="PasswordEntry"
                     Margin="-20,-25"
                     VerticalOptions="CenterAndExpand" 
                     IsPassword="True"/>
             </Frame>
         </StackLayout>
         <StackLayout Orientation="Horizontal" Margin="15, -15, 15, 0">
-            <Button
-                x:Name="RegistrationPageBtn"
+            <Button x:Name="RegistrationPageBtn"
                 Padding="0, 0, 0, 0"
                 BackgroundColor="#d0d0d0"
                 BorderWidth="1"
@@ -42,8 +38,8 @@
                 Clicked="RegistrationBtn_Clicked"
                 Text="Зарегистрироваться" 
                 FontAttributes="Bold"/>
-            <Button
-                x:Name="AuthBtn"
+            
+            <Button x:Name="AuthBtn"
                 BackgroundColor="#d0d0d0"
                 BorderWidth="1"
                 BorderColor="Black"

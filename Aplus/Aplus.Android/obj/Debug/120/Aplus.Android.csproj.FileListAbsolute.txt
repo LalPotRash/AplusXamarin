@@ -1889,3 +1889,5 @@ D:\VS Repos\AplusXamarin\Aplus\Aplus.Android\obj\Debug\120\stamp\_ConvertResourc
 D:\VS Repos\AplusXamarin\Aplus\Aplus.Android\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
 D:\VS Repos\AplusXamarin\Aplus\Aplus.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
 D:\VS Repos\AplusXamarin\Aplus\Aplus.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
+D:\VS Repos\AplusXamarin\Aplus\Aplus.Android\obj\Debug\120\res\drawable\houseimg.png
+D:\VS Repos\AplusXamarin\Aplus\Aplus.Android\obj\Debug\120\res\drawable\add.png

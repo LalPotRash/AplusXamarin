@@ -4,8 +4,7 @@
              x:Class="Aplus.RegistrationPage">
 
     <NavigationPage.TitleView>
-        <Label
-            Padding="45,0"
+        <Label Padding="45,0"
             FontSize="23"
             Text="Регистрация"
             TextColor="White"
@@ -15,33 +14,28 @@
     <StackLayout Padding="55,40" Spacing="0">
         <Label Text="E-mail" TextColor="Black" FontSize="16"></Label>
         <Frame BorderColor="#000" CornerRadius="0" Margin="0, 0, 0, 50">
-            <Entry
-                x:Name="EmailRegEntry"
+            <Entry x:Name="EmailRegEntry"
                 Margin="-20,-24" 
                 Keyboard="Email"/>
         </Frame>
         <Label Text="Логин" TextColor="Black" FontSize="16"></Label>
         <Frame BorderColor="#000" CornerRadius="0" Margin="0, 0, 0, 65">
-            <Entry
-                x:Name="LoginRegEntry"
+            <Entry x:Name="LoginRegEntry"
                 Margin="-20,-24" />
         </Frame>
         <Label Text="Пароль" TextColor="Black" FontSize="16"></Label>
         <Frame BorderColor="#000" CornerRadius="0" Margin="0, 0, 0, 65">
-            <Entry
-                x:Name="PassRegEntry"
+            <Entry x:Name="PassRegEntry"
                 Margin="-20,-24" 
                 IsPassword="True"/>
         </Frame>
         <Label Text="Пароль" TextColor="Black" FontSize="16"></Label>
         <Frame BorderColor="#000" CornerRadius="0" Margin="0, 0, 0, 75">
-            <Entry
-                x:Name="PassConfirmRegEntry"
+            <Entry x:Name="PassConfirmRegEntry"
                 Margin="-20,-24" 
                 IsPassword="True"/>
         </Frame>
-        <Button
-            x:Name="RegBtn"
+        <Button x:Name="RegBtn"
             Text="Зарегистрироваться"
             TextTransform="None" 
             CornerRadius="0"
