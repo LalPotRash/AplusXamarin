@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Aplus.RegistrationPage">
+
+    <NavigationPage.TitleView>
+        <Label Padding="45,0"
+            FontSize="23"
+            Text="Регистрация"
+            TextColor="White"
+            VerticalOptions="Center" />
+    </NavigationPage.TitleView>
+
+    <StackLayout Padding="55,40" Spacing="0">
+        <Label Text="E-mail" TextColor="Black" FontSize="16"></Label>
+        <Frame BorderColor="#000" CornerRadius="0" Margin="0, 0, 0, 50">
+            <Entry x:Name="EmailRegEntry"
+                Margin="-20,-24" 
+                Keyboard="Email"/>
+        </Frame>
+        <Label Text="Логин" TextColor="Black" FontSize="16"></Label>
+        <Frame BorderColor="#000" CornerRadius="0" Margin="0, 0, 0, 65">
+            <Entry x:Name="LoginRegEntry"
+                Margin="-20,-24" />
+        </Frame>
+        <Label Text="Пароль" TextColor="Black" FontSize="16"></Label>
+        <Frame BorderColor="#000" CornerRadius="0" Margin="0, 0, 0, 65">
+            <Entry x:Name="PassRegEntry"
+                Margin="-20,-24" 
+                IsPassword="True"/>
+        </Frame>
+        <Label Text="Пароль" TextColor="Black" FontSize="16"></Label>
+        <Frame BorderColor="#000" CornerRadius="0" Margin="0, 0, 0, 75">
+            <Entry x:Name="PassConfirmRegEntry"
+                Margin="-20,-24" 
+                IsPassword="True"/>
+        </Frame>
+        <Button x:Name="RegBtn"
+            Text="Зарегистрироваться"
+            TextTransform="None" 
+            CornerRadius="0"
+            BorderWidth="1"
+            BorderColor="Black"
+            Clicked="RegBtn_Clicked"/>
+    </StackLayout>
+</ContentPage>
