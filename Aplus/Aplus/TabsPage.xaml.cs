@@ -1,4 +1,5 @@
 ﻿using System;
+using Aplus.Models;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,12 @@ namespace Aplus
         public TabsPage()
         {
             InitializeComponent();
+        }
+
+        private void ProjectEditNavBtn_Clicked(object sender, EventArgs e)
+        {
+            var project = new Project(ProjectName.Text, "Description", "228000", "@mail.ru", "Kazan");
+            Navigation.PushAsync(new EditProjectPage(project));
         }
     }
 }

@@ -16,7 +16,8 @@
                 HeightRequest="30"
                 HorizontalOptions="End"
                 Source="add.png"
-                WidthRequest="30" />
+                WidthRequest="30"
+                Clicked="ImageButton_Clicked"/>
         </StackLayout>
     </NavigationPage.TitleView>
 

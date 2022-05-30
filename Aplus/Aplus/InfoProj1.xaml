@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Aplus.InfoProj1"
              Title="Проект 1">
-    
+
     <ContentPage.Content>
         <ScrollView>
             <StackLayout>
@@ -13,7 +13,8 @@
                     Margin="0, 30, 0, 20"
                     HorizontalOptions="CenterAndExpand" />
 
-                <Label TextColor="Black"
+                <Label x:Name="Description"
+                    TextColor="Black"
                     TextTransform="Uppercase"
                     HorizontalTextAlignment="Center"
                     Text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In et ultricies orci, in porta sem. Vestibulum in risus iaculis, porta orci at, bibendum velit. Nam volutpat pulvinar feugiat. Suspendisse imperdiet scelerisque porttitor. Integer mauris nibh, varius nec sem at, molestie cursus enim. Curabitur quis ipsum arcu. Ut ac accumsan dolor, sit amet molestie massa. In pharetra metus nec metus rutrum rhoncus. Quisque vestibulum dui dui, nec posuere nunc condimentum ut. Nunc accumsan sagittis dolor eu imperdiet." />
