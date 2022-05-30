@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Aplus"
+             x:Class="Aplus.TabsPage">
+
+    <NavigationPage.TitleView>
+        <StackLayout Orientation="Horizontal">
+            <Label x:Name="ProjectName"
+                FontSize="21"
+                Text="Проект 1"
+                TextColor="White"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"/>
+            <ImageButton
+                x:Name="ProjectEditNavBtn"
+                Margin="0,0,19,0"
+                Aspect="AspectFit"
+                BackgroundColor="Transparent"
+                Clicked="ProjectEditNavBtn_Clicked"
+                HeightRequest="20"
+                VerticalOptions="End"
+                HorizontalOptions="End"
+                Source="Editor.png"
+                WidthRequest="20" />
+        </StackLayout>
+    </NavigationPage.TitleView>
+    <TabbedPage.Children>
+        <local:InfoProj1 Title="О проекте"/>
+        <local:InfoProj2 Title="Картинки"/>
+        <local:InfoProj3 Title="Контакты"/>
+    </TabbedPage.Children>
+</TabbedPage>
