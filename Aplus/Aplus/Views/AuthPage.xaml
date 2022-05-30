@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Aplus.AuthPage">
+
+    <StackLayout Margin="40,20" Spacing="50">
+        <Image x:Name="IconLoginImg"
+            Margin="0,20,0,30"
+            Aspect="AspectFit"
+            Scale="0.9"
+            Source="Resources/logo.png" />
+        <StackLayout Spacing="0">
+            <Label Text="Логин" TextColor="Black" Margin="15,0,0,0" FontSize="16"></Label>
+            <Frame BorderColor="#000" CornerRadius="0" Margin="15, 0, 15, 55">
+                <Entry x:Name="LoginEntry"
+                    Margin="-20,-25"
+                    VerticalOptions="CenterAndExpand" />
+            </Frame>
+            <Label Text="Пароль" TextColor="Black" Margin="15,0,0,0" FontSize="16"></Label>
+            <Frame BorderColor="#000" CornerRadius="0" Margin="15, 0">
+                <Entry x:Name="PasswordEntry"
+                    Margin="-20,-25"
+                    VerticalOptions="CenterAndExpand" 
+                    IsPassword="True"/>
+            </Frame>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" Margin="15, -15, 15, 0">
+            <Button x:Name="RegistrationPageBtn"
+                Padding="0, 0, 0, 0"
+                BackgroundColor="#d0d0d0"
+                BorderWidth="1"
+                BorderColor="Black"
+                CornerRadius="0"
+                WidthRequest="110"
+                HeightRequest="35"
+                FontSize="11"
+                HorizontalOptions="Start"
+                Clicked="RegistrationBtn_Clicked"
+                Text="Зарегистрироваться" 
+                FontAttributes="Bold"/>
+            
+            <Button x:Name="AuthBtn"
+                BackgroundColor="#d0d0d0"
+                BorderWidth="1"
+                BorderColor="Black"
+                CornerRadius="0"
+                WidthRequest="110"
+                HeightRequest="35"
+                FontSize="11"
+                HorizontalOptions="EndAndExpand"
+                Clicked="AuthBtn_Clicked"
+                Text="Войти" 
+                FontAttributes="Bold"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>
