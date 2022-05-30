@@ -49,6 +49,33 @@
                 BackgroundColor="LightGray"
                 Placeholder="Адрес" />
             <StackLayout Orientation="Horizontal">
+                <StackLayout Orientation="Horizontal">
+                    <Image
+                        x:Name="img"
+                        HeightRequest="200"
+                        WidthRequest="100" />
+                    <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand">
+                        <Button
+                            x:Name="AddImageGalBtn"
+                            BackgroundColor="DeepSkyBlue"
+                            Clicked="AddImageBtn_Clicked"
+                            CornerRadius="20"
+                            HeightRequest="50"
+                            HorizontalOptions="FillAndExpand"
+                            Text="Галерея"
+                            WidthRequest="150" />
+                        <Button
+                            x:Name="AddImageCamBtn"
+                            BackgroundColor="DeepSkyBlue"
+                            Clicked="TakePhotoAsync"
+                            CornerRadius="20"
+                            HeightRequest="50"
+                            HorizontalOptions="FillAndExpand"
+                            Text="Камера"
+                            WidthRequest="150" />
+                    </StackLayout>
+                </StackLayout>
+                
                 <Button
                     x:Name="CancelBtn"
                     BackgroundColor="DeepSkyBlue"
